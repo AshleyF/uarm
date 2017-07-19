@@ -1,5 +1,6 @@
-# SightSign Robot
+# uArm Firmware and .NET library
 
+This was used for the [SightSign](https://github.com/MSREnable/SightSign) project to give Steve Gleason the ability to sign jerseys.
 The arm being used is the [uArm Metal from uFactory](https://www.ufactory.cc/en/uarm_metal/). We've replaced the firmware with our own.
 
 # Installation
